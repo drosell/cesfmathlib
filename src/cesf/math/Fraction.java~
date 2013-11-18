@@ -98,7 +98,7 @@ public class Fraction {
 		return a;
 	}
 
-	// compara dos fraccions //A en Daniel Rosell no li agraden les fraccions.
+	// compara dos fraccions
 	public boolean equals(Fraction b) {
 		Fraction f1 = this.reduce();
 		Fraction f2 = b.reduce();
